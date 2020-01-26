@@ -1,0 +1,14 @@
+NodeJS
+React
+
+
+Typescript
+
+
+Formik
+Yup
+
+Ant Design
+
+GraphQl
+Apollo
